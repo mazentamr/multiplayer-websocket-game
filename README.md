@@ -52,6 +52,7 @@ This project implements a **real-time multiplayer game** where players can conne
 3. **Run the WebSocket Server:**:
     cd server
     node server.js
+    
 
 4. **Run the Frontend:**:
     npm i
